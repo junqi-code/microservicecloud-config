@@ -7,7 +7,7 @@ spring:
 
 server: 
   port: 8201
-spring:
+spring: 
   profiles: dev  #测试环境
   application: 
     name: microservicecloud-config-client
